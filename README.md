@@ -4,4 +4,4 @@ The network fabric is represented by `M` machines or end-hosts connected to a no
 
 List of algorithms:
 - `CS-MHA`
-- ``
+- `Sincronia`
