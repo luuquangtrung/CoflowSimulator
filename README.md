@@ -1,7 +1,10 @@
 # CoflowSimulator
 
-#### Network fabric
+#### Network generator
 The network fabric is represented by `M` machines or end-hosts connected to a non-blocking Big-Switch fabric, of which each access link has a normalized capacity of `1`.
+
+#### Coflow generator
+TBU
 
 #### List of algorithms:
 - `CS-MHA` (cf. [Luo2016]
