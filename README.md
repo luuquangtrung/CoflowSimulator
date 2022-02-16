@@ -10,7 +10,7 @@ List of algorithms:
 - `Varys` (cf. [Chowdhury2014])
 
 References:
-* S.-H. Tseng and A. Tang, “Coflow deadline scheduling via network-aware optimization,” in Proc. Annu. Allert. Conf. Commun. Control Comput., 2018, pp. 829–833.
+* S.-H. Tseng and A. Tang, “Coflow deadline scheduling via network-aware optimization,” in *Proc. Annu. Allert. Conf. Commun. Control Comput.*, 2018, pp. 829–833.
 * Q-T. Luu, O. Brun, R. El-Azouzi, F. De Pellegrini, B.-J. Prabhu, and C. Richier, "DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," 2022.
-* S. Luo, H. Yu, and L. Li, “Decentralized deadline-aware coflow scheduling for datacenter networks,” in Proc. IEEE ICC, 2016, pp. 1–6.
-* M. Chowdhury, Y. Zhong, and I. Stoica, “Efficient Coflow Scheduling with Varys,” in Proc. ACM SIGCOMM, 2014, pp. 443–454.
+* S. Luo, H. Yu, and L. Li, “Decentralized deadline-aware coflow scheduling for datacenter networks,” in *Proc. IEEE ICC*, 2016, pp. 1–6.
+* M. Chowdhury, Y. Zhong, and I. Stoica, “Efficient Coflow Scheduling with Varys,” in *Proc. ACM SIGCOMM*, 2014, pp. 443–454.
