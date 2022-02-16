@@ -5,9 +5,9 @@ The network fabric is represented by `M` machines or end-hosts connected to a no
 List of algorithms:
 - `CS-MHA` (cf. [Luo2016]
 - `CDS-LPA`, `CDS-LPA` (cf. [Tseng2018])
-- `DCoflow` (three versions: `DCoflow_v1`, `DCoflow_v2`, and `DCoflow_MH`)
-- `Sincronia` ([Agarwal2018])
-- `Varys` ([Chowdhury2014])
+- `DCoflow` (three versions: `DCoflow_v1`, `DCoflow_v2`, and `DCoflow_MH`, cf. [Luu2022])
+- `Sincronia` (cf. [Agarwal2018])
+- `Varys` (cf. [Chowdhury2014])
 
 References:
 S.-H. Tseng and A. Tang, “Coflow deadline scheduling via network-aware optimization,” in Proc. Annu. Allert. Conf. Commun. Control Comput., 2018, pp. 829–833.
