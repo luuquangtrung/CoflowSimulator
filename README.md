@@ -3,14 +3,6 @@
 The network fabric is represented by `M` machines or end-hosts connected to a non-blocking Big-Switch fabric, of which each access link has a normalized capacity of `1`.
 
 List of algorithms:
-- `CS-MHA`
-- `Sincronia`
-
-# CoflowSimulator
-
-The network fabric is represented by `M` machines or end-hosts connected to a non-blocking Big-Switch fabric, of which each access link has a normalized capacity of `1`.
-
-List of algorithms:
 - `CS-MHA` (cf. [Luo2016]
 - `CDS-LPA`, `CDS-LPA` (cf. [Tseng2018])
 - `DCoflow` (three versions: `DCoflow_v1`, `DCoflow_v2`, and `DCoflow_MH`)
