@@ -8,7 +8,7 @@ The network fabric is represented by `M` machines or end-hosts connected to a no
 TBU
 
 ## List of implemented algorithms:
-- `CS-MHA` (cf. [Luo2016]
+- `CS-MHA` (cf. [Luo2016])
 - `CDS-LPA`, `CDS-LPA` (cf. [Tseng2018])
 - `DCoflow` (three versions: `DCoflow_v1`, `DCoflow_v2`, and `DCoflow_MH`, cf. [Luu2022])
 - `Sincronia` (cf. [Agarwal2018])
