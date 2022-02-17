@@ -21,7 +21,8 @@ TBU
 TBU
 
 ## References:
-* S.-H. Tseng and A. Tang, “Coflow deadline scheduling via network-aware optimization,” in *Proc. Annu. Allert. Conf. Commun. Control Comput.*, 2018, pp. 829–833.
-* Q-T. Luu, O. Brun, R. El-Azouzi, F. De Pellegrini, B.-J. Prabhu, and C. Richier, "DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," 2022.
-* S. Luo, H. Yu, and L. Li, “Decentralized deadline-aware coflow scheduling for datacenter networks,” in *Proc. IEEE ICC*, 2016, pp. 1–6.
-* M. Chowdhury, Y. Zhong, and I. Stoica, “Efficient Coflow Scheduling with Varys,” in *Proc. ACM SIGCOMM*, 2014, pp. 443–454.
+* [Luo2016] S. Luo, H. Yu, and L. Li, “Decentralized deadline-aware coflow scheduling for datacenter networks,” in *Proc. IEEE ICC*, 2016, pp. 1–6.
+* [Tseng2018] S.-H. Tseng and A. Tang, “Coflow deadline scheduling via network-aware optimization,” in *Proc. Annu. Allert. Conf. Commun. Control Comput.*, 2018, pp. 829–833.
+* [Luu2022] Q-T. Luu, O. Brun, R. El-Azouzi, F. De Pellegrini, B.-J. Prabhu, and C. Richier, "DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks," 2022.
+* [Agarwal2018] S. Agarwal, S. Rajakrishnan, A. Narayan, R. Agarwal, D. Shmoys, and A. Vahdat, “Sincronia: Near-optimal network design for coflows,” in *Proc. ACM SIGCOMM*, 2018, pp. 16–29.
+* [Chowdhury2014] M. Chowdhury, Y. Zhong, and I. Stoica, “Efficient Coflow Scheduling with Varys,” in *Proc. ACM SIGCOMM*, 2014, pp. 443–454.
