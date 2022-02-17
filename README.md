@@ -1,4 +1,4 @@
-# CoflowSimulator
+# CoflowSim
 
 ## Generators
 #### Generation of network fabric
